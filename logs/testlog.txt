@@ -1,0 +1,62 @@
+Landing Page Opened
+Category & Difficulty Selected
+Quiz Started
+Question: Largest Ocean?
+Option Clicked
+Next Button Clicked
+Question: Currency USA?
+Option Clicked
+Next Button Clicked
+Question: National Animal?
+Option Clicked
+Next Button Clicked
+Question: Days in week?
+Option Clicked
+Next Button Clicked
+Question: Capital India?
+Option Clicked
+Next Button Clicked
+Question: Sun rises?
+Option Clicked
+Next Button Clicked
+Question: National Bird?
+Option Clicked
+Next Button Clicked
+Question: Father of Nation India?
+Option Clicked
+Next Button Clicked
+Question: Red Planet?
+Option Clicked
+Next Button Clicked
+Question: Largest Continent?
+Option Clicked
+Next Button Clicked
+Result page reached
+Final Score: Great job, Player! 🎉 Score: 4/10
+Result Analysis Displayed Successfully
+Browser Closed
+Landing Page Opened
+Category & Difficulty Selected
+Quiz Started
+Question: Capital India?
+Option Clicked
+Next Button Clicked
+Question: Currency USA?
+Option Clicked
+Next Button Clicked
+Question: Red Planet?
+Option Clicked
+Next Button Clicked
+Question: Largest Continent?
+Option Clicked
+Next Button Clicked
+Question: Largest Ocean?
+Option Clicked
+Next Button Clicked
+Question: National Bird?
+Option Clicked
+Next Button Clicked
+Result page reached
+Final Score: Great job, Player! 🎉 Score: 2/8
+Result Analysis Displayed Successfully
+Browser Closed
